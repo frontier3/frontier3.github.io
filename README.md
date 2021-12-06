@@ -1,3 +1,3 @@
-# frontier3 collective
+# frontier3
 
 > An awesome project.
